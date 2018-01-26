@@ -7,7 +7,7 @@
 	<bookmark name="RAI International" url="http://www.listenlive.eu/rai8.m3u"/><bookmark name="RAI FD4 Leggera" url="http://www.listenlive.eu/rai4.m3u"/><bookmark name="RAI FD5 Auditorium" url="http://www.listenlive.eu/rai5.m3u"/><bookmark name="RAI Satelradio" url="http://www.listenlive.eu/rai9.m3u"/><bookmark name="RAI Sender Bozen" url="http://www.listenlive.eu/raibz.m3u"/></group><group name="Radio Italiane"><bookmark name="Radio 105" url="http://shoutcast.unitedradio.it:1101"/><bookmark name="LatteMiele" url="http://www.streamsolution.it/ONAIR/LATTEMIELE.asx"/>
 	<bookmark name="Radio Italia" url="http://radioitalialive.str.idc.extra.it/radioitalia"/>
 	<bookmark name="Radio Bruno" url="http://www.streamsolution.it/onair/radiobruno.asx"/>
-	<bookmark name="RTL 102.5" url="http://shoutcast.rtl.it:3010/listen.pls"/>
+	<bookmark name="RTL 102.5" url="https://rtl-radio-stream-thron.akamaized.net/live/radio1/radio1/chunklist.m3u8"/>
 	<bookmark name="Radio 101" url="http://players.creacast.com/creacast/r101/playlist.pls"/>
 	<bookmark name="Radio DeeJay" url="http://mp3.kataweb.it:8000/RadioDeejay.m3u"/>
 	<bookmark name="Radio Capital" url="http://live.mediaserver.kataweb.it/capital"/>
